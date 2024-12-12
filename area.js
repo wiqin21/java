@@ -4,6 +4,6 @@ function display(){
     let I2 = document.getElementById("width").value;
 
     let I3=I1*I2;
-    // alert(I3)
+    
      document.getElementById("area").value=I3;
 }
